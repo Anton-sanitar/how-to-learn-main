@@ -1,0 +1,5 @@
+.footer__column_content_socia {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
